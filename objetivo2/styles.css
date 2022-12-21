@@ -1,0 +1,82 @@
+body{
+    background-color: #2b1f2f;
+    color: whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+}
+
+#goldSong{
+    background-color: gold;
+    color: black;
+}
+
+#silverSong{
+    background-color: silver;
+    color: black;
+}
+
+#bronzeSong{
+    background-color:rgb(117, 81, 35);
+    color: black;
+}
+
+.topSongs{
+    background-color:#1f1722;
+    padding: 30px;
+    border-radius:20px;
+    width: 200px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.artist{
+    width: 400px;
+    margin: 0 auto;
+    padding:30px;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.info{
+    background-color: #1f1722;
+    text-align: center;
+    padding:20px;
+    margin-top: 10px;
+}
+
+.button{
+    width:200px;
+    background-color: #eee;
+    margin: 10px auto;
+    text-align: center;
+    padding:10px;
+    border: 2px solid black;
+    border-radius: 200px;
+    color: black;
+}
+a{
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #fb3122;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: #fb3122;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(179, 8, 8);
+  }
+
+  hr{
+    margin-bottom: 30px;
+  }
